@@ -100,6 +100,57 @@
             "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/selective-focus-photography-of-woman-in-pink-shirt-1199590.jpg",
             "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/cardio_abs.gif",
             "seconds": "30"
+        },
+
+
+        {
+            "id": "15",
+            "title": "Cardio For Tone Abs",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/active-adult-athlete-body-416778.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/cardio_for_tone_abs.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "16",
+            "title": "Cardio Sculpting",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/brandless-VKnjdEesFxw-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/cardio_sculpting.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "17",
+            "title": "Cardio Sculpting Workout",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/cathy-pham-3jAN9InapQI-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/cardio_sculpting_workout.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "18",
+            "title": "Exercise Abs",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/christopher-campbell-kFCdfLbu6zA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/excercise_abs.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "19",
+            "title": "Exercise",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/juan-pablo-rodriguez-X6jtULYJQz8-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/exercise.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "20",
+            "title": "Fitspo",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/mr-lee-f4RBYsY2hxA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/fitspo.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "21",
+            "title": "Floor Exercise",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/selective-focus-photography-of-woman-in-pink-shirt-1199590.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/floor_exercise.gif",
+            "seconds": "30"
         }
         
     ]
